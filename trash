@@ -1,0 +1,58 @@
+<div class="column1"></div>
+    <div class="box1">Best Donuts</div>
+    <div class="box3">
+      <p><a href= "https://www.thrillist.com/eat/new-york/the-best-donut-shops-in-nyc">Thrillist-Best Donut Shop NYC</a></p>
+      <p><a href= "http://gothamist.com/2016/10/06/best_doughnut_shops_nyc.php">Gothamist-Best Donut Shops NYC</a></p>
+    </div>
+    
+    </div>
+    <div class="box2">Donut Recipes</div>
+    
+    <div class="box4">Donut Recipes</div>
+
+
+
+
+
+
+
+
+
+
+
+.column1 { 
+  display: inline-block; 
+  text-align: left;
+  width: 300px;
+
+}
+
+
+.box1 {
+  display: block;
+  font-family: "Bitter", serif;
+  font-size: 18px;
+  margin: auto;
+  border-radius: 15%;
+}
+.box2 {
+  display: block;
+  font-family: "Bitter", serif;
+  font-size: 18px;
+  margin: auto;
+  border-radius: 15%;
+}
+.box3 {
+  display: block;
+  font-family: "Raleway", sans-serif;
+  font-size: 13px;
+  margin: auto; 
+  border-radius: 15%;
+}
+.box4 {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  display:block; 
+  margin: auto;
+  border-radius: 15%;
+}
